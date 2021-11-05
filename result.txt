@@ -1,0 +1,34 @@
+ a.   Bonus {1:4}
+ b.   English {1:1}
+ c.   Given {1:1}
+ d.   a {2:2, 2}
+ e.   all {1:3}
+ f.   alphabetical {1:3}
+ g.   an {2:1, 2}
+ h.   appeared {1:5}
+ i.   arbitrary {1:1}
+ j.   concordance {1:2}
+ k.   document {1:1}
+ l.   e {1:2}
+ m.   each {2:4, 5}
+ n.   frequencies {1:4}
+ o.   generate {1:2}
+ p.   i {1:2}
+ q.   in {2:1, 5}
+ r.   label {1:4}
+ s.   labeled {1:3}
+ t.   list {1:3}
+ u.   numbers {1:5}
+ v.   occurrence {1:5}
+ w.   occurrences {1:3}
+ x.   of {1:3}
+ y.   program {1:2}
+ z.   sentence {1:5}
+aa.   text {1:1}
+ab.   that {1:2}
+ac.   the {1:4}
+ad.   which {1:5}
+ae.   will {1:2}
+af.   with {2:3, 4}
+ag.   word {3:3, 4, 4}
+ah.   written {1:1}
